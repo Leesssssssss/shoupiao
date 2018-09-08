@@ -19,28 +19,28 @@
 ![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/1.png)</br></br>
 
 车票详情</br>
-![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/2.png)
+![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/2.png)</br></br>
 
-购买界面
-![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/3.png)
+购买界面</br>
+![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/3.png)</br></br>
 
-登录
-![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/4.png)
+登录</br>
+![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/4.png)</br></br>
 
-注册
-![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/5.png)
+注册</br>
+![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/5.png)</br></br>
 
-支付界面
-![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/6.png)
+支付界面</br>
+![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/6.png)</br></br>
 
-支付成功
-![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/7.png)
+支付成功</br>
+![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/7.png)</br></br>
 
-我的订单
-![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/8.png)
+我的订单</br>
+![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/8.png)</br></br>
 
-评价
-![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/9.png)
+评价</br>
+![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/9.png)</br></br>
 
-常用地址
-![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/10.png)
+常用地址</br>
+![shouye](https://github.com/Leesssssssss/shoupiao/raw/master/Screenshots/10.png)</br></br>
